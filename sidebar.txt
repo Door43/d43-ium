@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ium:home|Door43 (ium)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ium|d43-ium repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ium/archive/master.zip|d43-ium.zip]]
+
+**Recent Changes**
+{{changes>ns = ium}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ium|Ethnologue data]]
+
